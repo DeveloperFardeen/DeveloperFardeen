@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Fardeen! 👋
 
-<!--
-**DeveloperFardeen/DeveloperFardeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate self-taught web developer and aspiring AI developer. Currently pursuing a BS in Data Science at IIT Madras, I'm continuously learning and building projects that excite me.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks/Tools**: React, Node.js, Git, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+- **[FlipiX](#)**: A 3D album web app showcasing my skills in web development.
+
+## 🌱 My Learning Journey
+I'm a self-learner, constantly improving my skills through projects and challenges. Currently, I'm diving deep into AI and Data Science.
+
+## 📫 Let's Connect
+- [LinkedIn](#)
+- [Portfolio](#)
+- [GitHub](#)
+
+![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
