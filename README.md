@@ -14,7 +14,7 @@ I'm a self-learner, constantly improving my skills through projects and challeng
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/fardeenthedeveloper)
-- [Portfolio](fardeen.framer.ai)
+- [Portfolio](https://fardeen.framer.ai)
 - [Instagram](https://instagram.com/fardeenthedeveloper)
 
 ![Fardeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperFardeen&show_icons=true&theme=radical)
